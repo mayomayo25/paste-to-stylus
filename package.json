@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "paste-to-stylus:toggle"
   },
-  "repository": "https://github.com/atom/paste-to-stylus",
+  "repository": "https://github.com/mayomayo25/paste-to-stylus.git",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
