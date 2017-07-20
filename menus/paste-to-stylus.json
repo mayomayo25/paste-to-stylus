@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle paste-to-stylus",
+        "command": "paste-to-stylus:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "paste-to-stylus",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "paste-to-stylus:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
